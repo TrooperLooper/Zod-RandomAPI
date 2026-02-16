@@ -4,3 +4,4 @@ A TypeScript backend server demonstrating schema validation, API integration, an
 <br><br>
 Technologies: Express.js 5.x, TypeScript 5.x, Zod 4.x, ts-node, nodemon.
 <br>Assignment solved at Backend course @Sundsgården Folkhögskola
+ 
